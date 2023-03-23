@@ -1,0 +1,5 @@
+{
+    "name": "myRadar", 
+    "render_readme": false,
+    "homeassistant": "2023.2.0"
+}
