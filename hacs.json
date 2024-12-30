@@ -1,5 +1,5 @@
 {
     "name": "myRadar", 
     "render_readme": false,
-    "homeassistant": "2023.2.0"
+    "homeassistant": "2025.1.0"
 }
